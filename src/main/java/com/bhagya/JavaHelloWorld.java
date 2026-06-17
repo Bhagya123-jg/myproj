@@ -4,7 +4,7 @@ package com.bhagya;
  * Hello world!
  *
  */
-public class App 
+public class JavaHelloWorld 
 {
     public static void main( String[] args )
     {
